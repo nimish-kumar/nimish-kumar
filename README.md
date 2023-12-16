@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a full stack developer<br>Looking to collaborate on tech related to Python, react, react native and blockchain development<br>I am currently learning blockchain<br>Fun fact: I have experience in GCP, React, React Native, GraphQL, Django, Airflow, and OAuth implementation.
+I am currently working as a full stack developer<br>Looking to collaborate on tech related to Python, react, and react native <br>I am currently learning blockchain<br>Fun fact: I have experience in GCP, React, React Native, GraphQL, Django, Airflow, and OAuth implementation.
 
 
 ## 🌐 Socials:
